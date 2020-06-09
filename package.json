@@ -20,8 +20,7 @@
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
-    "@storybook/addon-centered": "^5.3.19",
-    "@storybook/addon-info": "^5.3.19",
+    "@storybook/addon-docs": "^5.3.19",
     "@storybook/react": "^5.3.19",
     "babel-loader": "^8.1.0",
     "commitizen": "^4.1.2",
