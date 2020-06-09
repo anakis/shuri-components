@@ -7,7 +7,7 @@
   ],
   "scripts": {
     "storybook": "start-storybook -p 3000",
-    "build:storybook": "build-storybook",
+    "build:storybook": "build-storybook --docs",
     "prebuild": "yarn build:storybook",
     "build": "lerna run build"
   },
